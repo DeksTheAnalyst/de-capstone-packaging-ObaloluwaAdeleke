@@ -69,6 +69,10 @@ API Integration
 The pipeline can make live API calls for data ingestion.
 If your API requires credentials, update the corresponding section in pipeline.cfg.
 
+[PyPI Package](https://pypi.org/project/omnicart-pipeline-obaloluwaadeleke/)
+pip install  omnicart-pipeline-ObaloluwaAdeleke #to install
+omnicart-pipeline #to run
+
 Author
 Obaloluwa Adeleke
 Omnicart Pipeline Project
@@ -77,3 +81,5 @@ Notes
 Ensure internet access for live API tests.
 Avoid hardcoding local paths — the configuration loader handles cross-environment access.
 # de-capstone-packaging-ObaloluwaAdeleke
+
+
